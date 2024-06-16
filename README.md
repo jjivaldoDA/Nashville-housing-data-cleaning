@@ -1,4 +1,4 @@
-# Data_Project
+# Nashville housing data cleaning with MySQL
 
 Dans ce projet, nous allons effectuer le nettoyage d'une table avec MySQL WorkBench.
 
